@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedalmaz
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning flutter platform
+- 🌱 I’m currently working on flutter platform
 - 💞️ I’m looking to collaborate on learnFlutter
 - 📫 How to reach me a.almaz826@gmail.com
 
